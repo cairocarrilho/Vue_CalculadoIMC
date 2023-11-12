@@ -1,4 +1,4 @@
-# Vue_CalculadoIMC
+# Vue_CalculadoraIMC
 
 * Calculadora de IMC (Indice de Massa Corporal ) crianda com o Framework Vue.JS
 * primeiro projeto criado com o framework para aplicar os conceitos de e utilizar as estancia do Vue
