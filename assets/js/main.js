@@ -66,11 +66,4 @@ options = {
   },
 };
 
-const vm = new Vue(options)
-
-
-
-
-
-  
-   
+const vm = new Vue(options);
