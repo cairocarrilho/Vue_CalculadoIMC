@@ -15,12 +15,12 @@ options = {
       "Obesidade grau 3"
     ],
     figuras : [
-      '/assets/img/foto_mulher_obesidade3.jpg',
-      '/assets/img/foto_mulher_obesidade2.jpg',
-      '/assets/img/foto_mulher_obesidade1.jpg',
-      '/assets/img/foto_mulher_acima_do_peso.jpg',
-      '/assets/img/Foto_mulher_peso_normal.jpg',
-      '/assets/img/Foto_mulher_abaixo_do_peso.jpg',
+      './assets/img/foto_mulher_obesidade3.jpg',
+      './assets/img/foto_mulher_obesidade2.jpg',
+      './assets/img/foto_mulher_obesidade1.jpg',
+      './assets/img/foto_mulher_acima_do_peso.jpg',
+      './assets/img/Foto_mulher_peso_normal.jpg',
+      './assets/img/Foto_mulher_abaixo_do_peso.jpg',
     ],
 
    msg:''
